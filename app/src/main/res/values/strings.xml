@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMessenger</string>
+    <string name="buttonSend">Отправить</string>
+    <string name="hint_enter_msg">Введите сообщение</string>
+
+
+
+
+
+
+</resources>
